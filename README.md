@@ -1,2 +1,2 @@
 # Order
-# Simple web app built using Razor Pages.
+Simple web app built using Razor Pages.
